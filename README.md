@@ -29,5 +29,5 @@ O objetivo do portal é informar o público sobre as principais notícias econô
  
 ## 📎 Acesse o Portal
  
-Confira o projeto e fique por dentro das notícias econômicas do Brasil! [Clique aqui para acessar](#).
+Confira o projeto e fique por dentro das notícias econômicas do Brasil! [Clique aqui para acessar](https://lysciprianno.github.io/Economia/).
  
